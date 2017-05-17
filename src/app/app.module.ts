@@ -13,12 +13,12 @@ import { aboutComponent } from './controllers/about/app.aboutComponent';
   imports:      [ BrowserModule,
                   RouterModule.forRoot([
                     {
-                      path: 'about',
-                      component: aboutComponent
-                    },
-                    {
                       path: '',
                       component: homeComponent
+                    },
+                    {
+                      path: 'about',
+                      component: aboutComponent
                     }
                   ])
                 ],
