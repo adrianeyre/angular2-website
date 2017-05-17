@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 
 import { headerComponent } from './controllers/header/app.headerComponent';
+import { navComponent } from './controllers/nav/app.navComponent';
 
 @Component({
   selector: 'my-app',
