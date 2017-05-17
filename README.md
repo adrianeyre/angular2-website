@@ -1,2 +1,1 @@
-# angular2-website
-Website created with Angular 2 framework
+# Website build in Angular 2 Framework
