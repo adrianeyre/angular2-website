@@ -40,7 +40,7 @@ h1 {
 
 #container {
   width: 100%;
-  max-width: 1345px;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 0;
   background: #ffffff;
@@ -89,4 +89,10 @@ nav ul li a {
 nav ul li a:hover {
   background: #ffffff;
   color: #010000;
+}
+
+#container .main {
+  display: block;
+  margin: 10px;
+  padding: 30px 20px;
 }
