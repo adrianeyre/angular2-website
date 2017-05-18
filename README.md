@@ -21,3 +21,6 @@ npm install
 ```
 npm start
 ```
+
+## <a name="Usage">Useage</a>
+Navigate to ```localhost:3000```
